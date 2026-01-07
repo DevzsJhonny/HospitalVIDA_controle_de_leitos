@@ -43,16 +43,16 @@ Visando otimizar a ocupação dos leitos, reduzir gargalos operacionais e aument
 
 ## 📂 Estrutura do Repositório:
 
-├── 📁 Fonte<br>
+├── 📁 fontes<br>
 │ └── Dados brutos utilizados para análise<br>
 │
-├── 📁 Apresentacao<br>
+├── 📁 Modelo_de_telas_para_apresentacao<br>
 │ └── Modelos de telas e slides para apresentação em PowerPoint<br>
 │
-├── 📁 PowerBI<br>
+├── 📁 Analise_HospitalVidaPlena.pbix<br>
 │ └── Arquivos .pbix com dashboards e análises visuais<br>
 │
-├── 📁 Analise_Dados<br>
+├── 📁 Script_Analysis__.ipynb<br>
 │ └── Notebook .ipynb com exploração, tratamento e análise dos dados<br>
 │
 └── README.md
